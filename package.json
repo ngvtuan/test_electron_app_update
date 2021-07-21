@@ -1,7 +1,7 @@
 {
   "name": "testelectronupdateapp",
   "productName": "Pastel - Test Auto Update",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "Pastel Wallet Fullnode (Electron version)",
   "author": {
     "name": "The Electron Network",
