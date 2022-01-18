@@ -1,8 +1,9 @@
 <p align=center>
   <img height="150px" src="src/common/assets/images/logo.svg"/>
 </p>
-
-<p size="+1" align="center">Pastel Fullnode Wallet</p>
+<p align=center>
+<font size="1"> This is my text number1</font> 
+  </p>
 <h1 align="center" style="border: 0; margin-bottom: 0; padding-bottom: 0">Pastel Fullnode Wallet</h1>
 </p>
 
