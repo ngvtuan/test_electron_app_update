@@ -1,16 +1,13 @@
 <p align=center>
   <img height="150px" src="src/common/assets/images/logo.svg"/>
 </p>
-<p align=center>
-<font size="1"> This is my text number1</font> 
-  </p>
-<h1 align="center" style="border: 0; margin-bottom: 0; padding-bottom: 0">Pastel Fullnode Wallet</h1>
-</p>
 
-<br>
-<p align=center>
-<a href="https://circleci.com/gh/pastelnetwork/pastel-electron-wallet/tree/master"><img alt="docs" src="https://circleci.com/gh/pastelnetwork/pastel-electron-wallet/tree/master.svg?style=svg"></a>
-</p>
+# Pastel Fullnode Wallet
+
+Pastel Fullnode Wallet is a z-Addr first, Sapling compatible wallet and full node for pasteld that runs on Linux, Windows and MacOS. This wallet runs `pasteld`, pastel gonode(`walletnode`), `rqservice` managed by [pastel-utility](https://pastel.wiki/en/Architecture/pastel-utility).
+
+
+[![CircleCI](https://circleci.com/gh/pastelnetwork/pastel-electron-wallet/tree/master.svg?style=svg)](https://circleci.com/gh/pastelnetwork/pastel-electron-wallet/tree/master)
 
 ---
 
