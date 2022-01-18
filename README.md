@@ -2,7 +2,7 @@
   <img height="150px" src="src/common/assets/images/logo.svg"/>
 </p>
 
-<font size="+1" align="center">Pastel Fullnode Wallet</font>
+<p size="+1" align="center">Pastel Fullnode Wallet</p>
 <h1 align="center" style="border: 0; margin-bottom: 0; padding-bottom: 0">Pastel Fullnode Wallet</h1>
 </p>
 
