@@ -2,11 +2,11 @@
   <img height="100px" src="src/common/assets/images/logo.svg"/>
 </p>
 
-<p align=center>
+<div align=center>
 
   ## Pastel Fullnode Wallet
 
-</p>
+</div>
 
 <div align=center>
   
